@@ -6,7 +6,7 @@ This provides a simple api for discovering npm packages that are valid UDT plugi
 
 ## Get all UDT plugins
 
-`GET https://plugin-api.universaldatatool.com/api?q=delete-samples`
+`GET https://plugin-discovery.universaldatatool.com/api?q=delete-samples`
 
 ```javascript
 {
