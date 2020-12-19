@@ -54,4 +54,4 @@ return the latest version of your plugin.
 
 ## Why isn't my plugin appearing in the discovery tool?
 
-You may need
+Check to see that your package appears on [npms.io](https://npms.io). Our api updates as their api updates.
